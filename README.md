@@ -1,0 +1,1 @@
+# webpingstats.sh
